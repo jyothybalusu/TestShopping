@@ -8,7 +8,8 @@ I have used a Page object model design to write the automation tests and are imp
 These tests are executed using Firefox browser and could be run as TestNG.
 
 The output reports are written to the folder as
-/Users/…../Repo/testshopping/test-output/Test Suite/ Test.html
+/Users/…../Repo/testshopping/test-output/Test Suite/ xxxxx.html
+
 
 Failed Tests screenshots are written to the folder 
 /Users/…./Repo/testshopping/test-output/failedScreenshots 
